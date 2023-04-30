@@ -1,12 +1,10 @@
-openai==0.27.4
-tiktoken==0.3.3
-duckduckgo-search==2.8.5
-termcolor==2.2.0
-python-dotenv==1.0.0
 beautifulsoup4==4.12.2
 lxml==4.9.2
 scikit-learn==1.2.2
 thinkgpt==0.0.4
-langchain==0.0.141
+thinkgpt==0.0.4
 faiss-cpu==1.7.4
+langchain==0.0.141
 loguru==0.7.0
+nltk==3.8.1
+gitpython
