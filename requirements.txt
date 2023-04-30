@@ -7,3 +7,6 @@ beautifulsoup4==4.12.2
 lxml==4.9.2
 scikit-learn==1.2.2
 thinkgpt==0.0.4
+langchain==0.0.141
+faiss-cpu==1.7.4
+loguru==0.7.0
